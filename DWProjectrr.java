@@ -17,7 +17,7 @@ public class DWProjectrr {
 	
 	static Connection takecredentials() throws SQLException{
 		String userName = "root";
-		String userPassword = "Musadac20.";
+		String userPassword = "yoursystempassword";
 		String dbName = "ProjectDW";
 		char changecreds = 'n';
 		Scanner input = new Scanner(System.in);
