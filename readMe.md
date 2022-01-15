@@ -13,5 +13,3 @@
 
 ## You can give your own Credentials and You can decide to manually make schema tables using sql file or can ask Java Script to make one for you automatically 
 
-
-# MusaDAC i191765
